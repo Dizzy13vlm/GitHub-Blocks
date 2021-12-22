@@ -1,6 +1,6 @@
 * {
-    margin: 5px;
-    padding: 5px;
+    margin: 0px;
+    border: 0px;
 }
 
 img {
@@ -24,22 +24,32 @@ body {
 .octocat {
     display: block;
 }
+
 #o1{
     background-color:#58c6e9;
     justify-content: space-evenly;
     display: flex;
+    margin: 15px;
+    border: 15px;
+    padding: 15px;
 }
 
 #o2{
     background-color:#d2a2ba;
     justify-content: space-evenly;
     display: flex;
+    margin: 15px;
+    border: 15px;
+    padding: 15px;
 }
 
 #o3{
     background-color:#fbfbfd;
     justify-content: space-evenly;
     display: flex;
+    margin: 15px;
+    border: 15px;
+    padding: 15px;
 }
 
 #footer{
@@ -50,6 +60,3 @@ body {
     inline-size: auto;
     color:grey;
 }
-
-
-/*comments*/
